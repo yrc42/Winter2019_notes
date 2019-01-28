@@ -92,7 +92,53 @@ increased feelings of disgust at the thought of having indirect or secondary con
 
 
 
+# Demonic possession and deliverance in the diaspora
 
+- 17 individuals participating in a **Pentecostal** deliverance ceremony and their descriptions of discerning demon possession, undergoing exorcism/deliverance, and their condition immediately following. 
+- strong convergence on losing control in **nightmares**, which reflect adversity in their lives, which in turn reinforces the discernment. and accompanied by a lack of amnesia post-deliverance
+
+## Phenomenological studies of demon possession and exorcism/deliverance 
+
+*  absence of phenomenological descriptions of the experience of the possessed or of those individuals who perform the exorcism.  few studies which provide experiential descriptive accounts of the actual manifestation of possession, the resulting exorcism (or deliverance) and the individual’s own
+* The importance of phenomenological accounts is that they can foremost assist with explicating the experiences of participants of these ceremonies which would lead to clearer distinctions in types of possession
+*  contrast with phenomenological accounts of “positive” religious experiences to  reveal why times of stress can give rise to such divergent religious experiences in different individuals
+* although they depart from the standard methodology
+  * questioner is the evangelist rather than the researcher
+  *  lack more speciﬁc or in-depth questioning
+* but have same open-ended questioning and authentic and immediate account 
+
+## Method
+
+### setting
+
+ Nigerian-based Pentecostal church
+
+### data
+
+### participants
+
+## Results
+
+### Discernment of demon possession 
+
+* Nightmares and possession
+* Nightmares and spiritual husband
+
+### Recall of deliverance
+
+#### Immediately after deliverance
+
+#### after deliverance
+
+##Possession and “positive” experiences of communicating with god
+
+
+
+## Spirit possession and psychotic disorders
+
+## Nightmares and psychotic disorders 
+
+## Spirit possession and attribution of agency
 
 
 
