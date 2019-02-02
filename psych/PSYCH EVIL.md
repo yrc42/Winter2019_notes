@@ -77,11 +77,10 @@ One evil deed is enough if **perpetrator Intentionality + victim suffering -> Th
 - i.e. very long pre-mediation period, repeated behaviour
 - i.e. if it causes long-term irreversible harm
 
-#### Three MOPE Examples
 
-##### Demons
+####  Demons - MOPE Example
 
-###### Foundational assumptions:
+##### Foundational assumptions:
 
 1. ''Evil'', unseen entities exist -> a metaphysical realm exists
 2. and can take over a human body, a significant movement from outside(foreign) to inside
@@ -91,50 +90,51 @@ One evil deed is enough if **perpetrator Intentionality + victim suffering -> Th
 
 so what are people willing to do? 'make the body uninhabitable'. ex. Cambridge - force fed the child massive amount of water. child died from medical complication
 
-###### Possession: a psychological perspective
+##### Possession: a psychological perspective
 
-* nearly cross-cultural
+######nearly cross-cultural
 
-* the possessing agent is not always seen as evil (i.e. seeking to be possessed by god, ghosts) 
+###### the possessing agent is not always seen as evil 
 
-* challenges lay assumptions about self
+i.e. seeking to be possessed by god, ghosts
 
-  * stable, unified identity? a thread of "true me" across the roles despite different thoughts and actions. But for possession, the host personality is no longer in control.
-  * alert, aware, and in control?
-    * sleep paralysis(Cheyne)
-    * intentionality(Wegner)-> Experiencing 'self' as 'I'
-      * we assume what happens is the conscious intention leads to action. 
-      * what research suggests really happens: nonconscious processing is both causing conscious intention and actions. thus conscious intention and action are not necessarily causation. 
-      * what if there is no link b/w conscious intention and action? what if people are acting but there is no conscious intention behind it? if 'I' did not cause my action, what caused it?
-      * Childhood Trauma(physical, sexual abuse) dislike old story-> 
-        * dissociation(selective inattention, inward focus) discard old story, 'this is not happening to me' + imagery/fantasy ability create new story + absorption/credulity believe new story
-          * cultural prism decide available stories: i.e. abduction by Satanist cult, demonic possession, aliens abduction -> 'easier to live with than my parents did this'(tragically adult abusers will encourage this narrative)
-        * <- later life stressors, 'reflectively' need for a story(coping mechanisms)
+###### challenges lay assumptions about self
 
+* stable, unified identity? a thread of "true me" across the roles despite different thoughts and actions. But for possession, the host personality is no longer in control.
+* alert, aware, and in control?
+  * sleep paralysis(Cheyne)
+  * intentionality(Wegner)-> Experiencing 'self' as 'I'
+    * we assume what happens is the conscious intention leads to action. 
+    * what research suggests really happens: nonconscious processing is both causing conscious intention and actions. thus conscious intention and action are not necessarily causation. 
+    * what if there is no link b/w conscious intention and action? what if people are acting but there is no conscious intention behind it? if 'I' did not cause my action, what caused it?
+    * Childhood Trauma(physical, sexual abuse) dislike old story-> 
+      * dissociation(selective inattention, inward focus) discard old story, 'this is not happening to me' + imagery/fantasy ability create new story + absorption/credulity believe new story
+        * cultural prism decide available stories: i.e. abduction by Satanist cult, demonic possession, aliens abduction -> 'easier to live with than my parents did this'(tragically adult abusers will encourage this narrative)
+      * <- later life stressors, 'reflectively' need for a story(coping mechanisms)
 
-###### Challenges for the metaphysical perspective
+##### Challenges for the metaphysical perspective
 
 * locally defined - cultural specific 
 
 * demographically predictable - tends to have background factors that make reports more likely(i.e. past abuse)
 
-###### Challenges for the metaphysical perspective
+##### Challenges for the metaphysical perspective
 
 * claims of paranormal phenomena: 
 * 1. spirit
   2. misperception
   3. energy- harness the metaphysical energy
 
-##### Satanic Ritual Abuse
+#### Satanic Ritual Abuse- Example
 
-###### A moral panic(de young,2008)
+##### A moral panic(de young,2008)
 
 * unstable family structure + demonic belief + trauma narrative
 
 
 * media & moral entrepreneurs("this may sell books/ give me sth to focus on") v. "folk devils"( whomever accused, labeled as pure evil)
 
-###### what are people willing to do?
+##### what are people willing to do?
 
  extreme accusations, extreme punishment -  massively discredited(eventually)
 
@@ -142,7 +142,7 @@ so what are people willing to do? 'make the body uninhabitable'. ex. Cambridge -
 
 * real abuse sometimes happened but ... people would take advantage of this, dress up as goat/etc, to both scare the victims and fabricate story
 
-##### Serial Killers
+#### Serial Killers-MOPE Example
 
 * Mythologized as modern, secular "Unseen Evil". Similar with demon stories where the exorcist is the hero and wins the battle when the demon is identified. The heroes in this story are the Criminal Profilers <- !!!!! netflix unabomber series
 * Willing to devote a disproportioned amount of resources to battle it.
@@ -169,7 +169,83 @@ so what are people willing to do? 'make the body uninhabitable'. ex. Cambridge -
 
   * easy to get in and hard to get out
 
-  ​
 
 
+### The Mark of Cain
 
+* "My punishment is greater than I can be"- somebody is going to target me
+
+* "I'll mark you so they wont kill you"
+
+**God, Cain and MOPE**
+
+1. God: Cain's act is evil
+2. Cain: feeling the consequence of the label
+3. LDS: Cain never died
+
+**Marking Cain: Mercy or Stigma?**
+
+1. humans: ancient need to belong 
+2. rejection/ exclusion is physically painful
+3. EVIL the label is the mark of Cain
+4. people want to avoid being seen as evil
+5. People want to avoid seeing themselves as evil
+
+#### Deflecting the Mark of Cain
+
+##### Moral licensing
+
+##### **Denying one's role**
+
+* externally-"wasn't me" 
+* internally
+  * **absent memory** "that didn't happen" 
+  * **distorted memory**"didn't happen the way you said it did"
+    * children are more likely to forget abuse happen when parents are the ones did it
+    * "Motivated forgetting"- a lot of our memory evoke negative emotion state, thus a desire to forget. People can willfully interfere with the encoding process, willfully suppress retrieval, or substitute neural thoughts.
+  * **swapped memory**- "that didn't happen- this happened" "it's not a lie if you believe it"
+
+##### **Dismantle the evil prototype**
+
+###### **Minimizing perceived harm**
+
+1. choose **"victimless" unethical** behaviours("not a big deal")
+   * structure can obscure perception, some are just structurally isolated from the implication of certain behaviours
+   * gradual change/cumulative effect hard to track- little unethical things at time
+2. redirect one's attention to **short term**("no one will know, i wont have another chance")
+3. **victims can't be harmed** - i.e. didn't feel it 
+4. active reversal("**victims aren't victims**")
+
+######Decreasing perceived intent
+
+1. **automatism**: "I was not in control of my behaviour"
+   * parasomnia(i.e. sleep walking)
+   * substance abuse
+   * auto hypnosis-though individual cannot be hypnotized unless willingly
+
+2. **reflexive**: temporal binding - since the sense of intention and outcome is binded by time. the shorter the span of time is, the stronger the causation we feel. There is less temporal binding w.r.t. negative outcome than positive outcome, suggesting **we reflectly want to disconnect our action from negative feedback.**
+
+###### **Invoking justifications**
+
+always the backup plan, a good reason vs a good enough reason
+
+* **"I am good"** moral conviction: "it's bigger than you or me, there is a higher purpose there. if you are a good person you'd agree too.  The bad need to be done for the good."
+* **"I am not bad"** self under duress/disadvantage: "it's understandable. you get it"
+  * "the target has victimized me. *They* hurt me." - Revenge
+  * "the world/target could hurt me unless ..." - Protection
+  * "the world has victimized me" - Compensation, "people shouldn't stand in my way because I deserved it" "I don't worry about other people because I've got enough on my own"
+
+###### Populist normalizing
+
+**"I am no worse than you"**: not deserving of rejection. "I'm so busted, but if you condemn me you condemn yourself. You got no right to judge me."
+
+###### Assertion of personal power
+
+**"I can hurt you"**: rejection cannot hurt me, I am more powerful than you. *Then why make such a big deal out of it?* - "you can't hurt me any more than I can hurt myself"
+
+##### Additional Notes
+
+1. "not bad enough" is good enough for deflecting the Mark of Cain
+2. the deflecting action can extend from self to ingroup. i.e. soldier giving justification for committing atrocity
+3. sometimes perpetrators have been victimized. 
+4. why do people risk being labeled "EVIL"?
