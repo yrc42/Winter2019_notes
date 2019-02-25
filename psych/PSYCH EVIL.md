@@ -5,11 +5,11 @@
 - Labelling always has a consequence, a reaction. Different labels have different properties.
 - - **Descriptive**
   - **Category-defining**: evil is either you are or you are not, it's categorical, not numerical
-  - - **Tajfel**: presented a series of lines with categorization condition vs no categorization condition. It's observed that when a line is categorized with other longer lines, people perceive it longer as well.
+    - **Tajfel**: presented a series of lines with categorization condition vs no categorization condition. It's observed that when a line is categorized with other longer lines, people perceive it longer as well.
   - **Evaluative**: there is value behind this label
   - **Explanatory**: there is underlying reason/cause for this label. Ie. Sick as label has disease as reason
 - When and how do people use other labels?
-- - Prototype: a mental extraction, average of the features of object that belongs in a certain category. It centers on the common stuff.
+  - Prototype: a mental extraction, average of the features of object that belongs in a certain category. It centers on the common stuff.
   - The fewer the features match , the more hesitant we may be to apply the label
 
 ### **Prototype of evil behaviour** 
@@ -249,3 +249,6 @@ always the backup plan, a good reason vs a good enough reason
 2. the deflecting action can extend from self to ingroup. i.e. soldier giving justification for committing atrocity
 3. sometimes perpetrators have been victimized. 
 4. why do people risk being labeled "EVIL"?
+
+
+
