@@ -1,7 +1,7 @@
 # The politics of ethnic identities: module #3
 
-- Racial identities = biological features. Skin colour, hair colour, eye colour, facial feature. Acquired at birth
-- Ethnic = social categories. Language, culture, cuisine, dress, region, religion.  
+- **Racial identities = biological features**. Skin colour, hair colour, eye colour, facial feature. Acquired at birth
+- **Ethnic = social categories.** Language, culture, cuisine, dress, region, religion.  
 - African – more of an ethnic label. Black – racial. Mulatto – racial. Argentinian – ethnic. 
 
 ## Are ethnically diverse firms more productive?
@@ -20,37 +20,36 @@
 - **2 types of ethnic policy**: melting pot (discrimination/assimilation)
 - Salad bowl – (multiculturalism)
 - Case: apartheid in south Africa vs multicultural brazil. They have many similarities(economy, demographics, geopolitics). Both started as ineffective states.  South Africa was much better at collecting taxes and providing public services.
-- Income tax collection require cooperation among the rich, and cooperation between rich and the poor.
-- Cooperation relies on shared (coherent) identity, it unravels with conflicted identity
-  - Benefit of a coherent identity: 
-    - self interest: common identity heightens shared economic interests. Individuals derive “psychic” benefits from status of their group. 
-    - Altruism: Individuals are willing to sacrifice for members of their own group.
-    - efficient: same language and culture makes coordination easier. 
+- Income tax collection require cooperation among the **rich**, and cooperation between **rich and the poor**. People are more willing to cooperate when they have a shared and **coherent** identity.
+
+### Benefit of a coherent identity: 
+  - **self interest**: common identity heightens shared economic interests. Individuals derive “psychic” benefits from status of their group. 
+  - **Altruism**: Individuals are willing to sacrifice for members of their own group.
+  - **efficient**: same language and culture makes coordination easier. 
 
 ### What makes an identity coherent?
 
 - Identity is a classification scheme – it serves to differentiate one group from another
 - **The principle of negation** states that for an identity to be meaningful, at least one individual must classify as not belonging. The more sharply outsiders are excluded, the more coherent the insiders’ shared identity. The more permissively outsiders are included, the less coherent the insiders’ shared identity.
 - Implication:
-  - A policy of salad bowl will weaken shared identities, intensify conflicting identities
-  - A policy of melting pot will sharpen shared identity amongst elites and outcasts.
+  - **A policy of salad bowl will weaken shared identities, intensify conflicting identities**
+  - **A policy of melting pot will sharpen shared identity amongst elites and outcasts.**
 
 #### Impact on public services/collective action/taxes
 
-- A policy of salad bowl will – weaken shared identity for every one. impede cooperation on collective action, impede tax collection and reduce public services. (elite do not wish to help the poor. Multi-ethnic elites free ride on each other)
-- A policy of melting pot will – sharpen shared identity among elites and among outcast. enhance collective action amongst elites (South African whites willing to pay taxes to help poor whites). This will enhance collective action amongst outcasts too – black mobilization of equal rights
+- A policy of salad bowl will – weaken shared identity for every one. **impede cooperation on collective action, impede tax collection and reduce public services.** (elite do not wish to help the poor. Multi-ethnic elites free ride on each other)
+- A policy of melting pot will – sharpen shared identity among elites and among outcast. **enhance collective action amongst elites (South African whites willing to pay taxes to help poor whites). This will enhance collective action amongst outcasts too – black mobilization of equal rights**
 
 #### The failure of soviet communism due to ethnic identities
 
-- Example of the perverse effect of salad bowl
+- Example of the **perverse effect of salad bowl**
 - Communists had sharply different fates in different countries (heavy defeats un Ukraine, Georgia. Popular in Belarus, moldova)
-- Initial Problem was ethnic – local resentment towards foreign communism. Soviet leaders need to forge common "Soviet identity".
-- Solution: forced assimilation vs multiculturalism. 
-- Soviet leaders chose multiculturalism. Pre-communist ethnic curriculum was continued and supported. 
-- However, this violated the principle of negation. No ethnic category was classified as "not being" Soviet. The soviet identity loses coherence. 
-- Consequence – in regions with high pre-communist literacy rates, native identity crowd out soviet identity, communist support collapsed. In regions with low pre-communist literacy rates, there was no pre-existing native identity, soviet identity unchallenged, communist support sustained.
+- Initial Problem was ethnic – local resentment towards foreign communism. Soviet leaders need to forge common "Soviet identity". Solution: forced assimilation vs multiculturalism. 
+- Soviet leaders chose **multiculturalism**. Pre-communist ethnic curriculum was continued and supported. 
+- However**, this violated the principle of negation. No ethnic category was classified as "not being" Soviet. The soviet identity loses coherence.** 
+- Consequence – in regions with **high pre-communist literacy rates, native identity crowd out soviet identity**, communist support collapsed. In regions with low pre-communist literacy rates, there was no pre-existing native identity, soviet identity unchallenged, communist support sustained.
 
-Recap 
+## Recap
 
 In economy
 
@@ -62,40 +61,46 @@ In politics
 - Ethnic discrimination encourages collective action, due to intensifying group identities. Also encourages members to make sacrifices for their identity (pay taxes, join army, etc.)
 - Ethnic inclusion weakens collective identity, impedes collective sacrifice.
 
-Implications of this
+## Is racism/melting pot always better than multiculturalism?
 
-- Is racism/melting pot always better than multiculturalism
-- Logic: negation -> collective identity -> collective efforts to protect identity
-- Positive consequence – group members embrace tasks that bring honour to their society (pay taxes, join army, etc.)
-- Negative consequence – group members deny problems that bring stigma to identity (denying poverty issues within community, believing they are too proud)
+- **Fundamental Logic: negation -> collective identity -> collective efforts to protect identity**
+- **Positive consequence** – group members **embrace tasks** that bring **honour** to their identity (pay taxes, join army, etc.)
+- **Negative consequence** – group members **deny problems** that bring **stigma** to identity (denying poverty issues within community, believing they are too proud)
 
-Case study: HIV/AIDs pandemic in brazil/south Africa
+### Case study: HIV/AIDs pandemic in brazil/south Africa
 
-- Brazil was much more proactive than south Africa.  
-- Brazil was also much more successful.  
+- Brazil was much more proactive than south Africa.  Brazil was also much more successful.  
 - How did this happen?
-- Under ethnic discrimination: group identities are strong. Individuals perceive social problems targeted at specific groups. Targeting creates stigma for the problem group. To safeguard collective identity, the problem group mobilize to deny problem, actively refuse help. i.e (blacks targeted during the HIV crisis, they deny help, deny the crisis existed).
-- Under ethnic inclusiveness:group identities are weak, thus, people perceive problems to be shared/pooled across groups. Stigma loses meaning without targeting, as pooling drives out stigma. Culprits are understood as victims. All individuals acknowledge problem and seek help.
+- **Under ethnic discrimination**: **group identities are strong. The blame for social problems targeted at specific groups. Targeting creates stigma for the problem group. To safeguard collective identity, the problem group mobilize to deny problem, actively refuse help**. i.e (blacks targeted during the HIV crisis, they deny help, deny the crisis existed).
+- **Under ethnic inclusiveness: group identities are weak, thus, people perceive problems to be shared/pooled across groups. Stigma loses meaning without targeting, as pooling drives out stigma. Culprits are understood as victims. All individuals acknowledge problem and seek help.**
 
-How do individuals choose ethnic identity
+### Case study: Hindu
 
-- Which dimension should voters/politicians exploit in politics
-- Puzzle: how do people choose votes in American? – an English speaking catholic latino in LA has 3 choices in playing the ethnic card (language, religion, skin colour.
-- Could mobilize fellow catholics against other faiths, mobilize English vs non-english, or mobilize fellow latinos
+- Hindu heartland controls most legislative seats(hence government). 
+- Government discriminates against non-hindus
+- Ethnic discrimination sharpens Hindu identity
+- Hindu-based government denies AIDS problem -blames northeast for drug use, blame southern states for promiscuity
+
+## How do individuals choose ethnic identity
+
+- **Ethnicity** has many dimensions. Which dimension should voters/politicians exploit in politics
+- Puzzle: how do people choose votes in American? – an English speaking catholic latino in LA has 3 choices in playing the ethnic card (language, religion, skin colour) - Could mobilize fellow catholics against other faiths, mobilize English vs non-english, or mobilize fellow latinos
+- Voters can split over either large or small ethnic dimensions
+  - India – they split over caste in 1910s, now they split over religion (muslim vs hindu)
+  - Kenya: voter split over tribes/clans under one-party rule, languages under multi-party rule
+  - Northern Ireland: religions
+- **the ethnic coalition has to be large enough to win power,  but small enough to minimize the sharing of resources with others**. **Politicians/voters always choose the minimum-winning coalition.** 
+  - They will focus on latinos(50%) as they want an ethnic coalition that is large enough to win, but small enough to keep the costs as low.
+  - English speaking population too high – cost too high
+  - Catholic population too low – cannot win. 
 - Logic: want to have the most chances of winning (mobilize the highest population), and most cheaply (least cost per person) – it’s not just about numbers. 
-- They will focus on latinos as they want an ethnic coalition that is large enough to win, but small enough to keep the costs as low.
-- English speaking population too high – cost too high
-- Catholic population too low – cannot win. 
 - This is referred to as a minimum winning coalition 
 - People sometimes choose to portray their ethnic identity differently at different times. 
 - Voters in many countries split over tribes/clans under one party rules
-- They split over languages under multi-party competition.  
-- Same thing in india – they split over caste in 1910s, now they split over religion (muslim vs hindu)
+- They split over languages under multi-party competition. 
 - Why do politicians/voters build different types of ethnic coalitions
-- Remember that: the ethnic coalition has to be large enough to win power,  but small enough to minimize the sharing of resources with others
-- Politicians always choose the minimum-winning coalition. 
 
-Conditions to a minimum-winning ethnic coalition. 
+## Conditions to a minimum-winning ethnic coalition. 
 
 - 1) how large is the arena for political competition. 
 - 2) how large is the ethnic coalition (large = language, religion) or small (clans, tribes, etc.)
@@ -106,7 +111,7 @@ Conditions to a minimum-winning ethnic coalition.
 - In a local competition, a large ethnic coalition covers large percentages of population -> oversized
 - Voters/politicians will focus on small coalitions in this case
 
-When is political competition national or local
+## When is political competition national or local
 
 - Under a one-party regime, power at a national level is uncontested. Dominant part fields competing candidates in local ridings. Competition is local. Ethnicity evolves around small coalitions. 
 - Under multi-party regimes, power is contested at a national level. Competition is national, ethnicity evolves around large coalitions. 
@@ -117,30 +122,98 @@ When is political competition national or local
 - This is the opposite for countries with near-universal suffrage.  – politicians/voters now exploit large ethnic dimensions (i.e language, religion) in this case
 - This is in order to ensure that they have large enough coalition to meet the minimum winning coalition. Small clans/tribes are not large enough in population to be winning. They are now non-winning. 
 
-Module 4 – when to democratize? Logic of life under authoritarian regimes
+# Module 4 – Logic of life under authoritarian regimes
 
-- Short-side power explains why the state or citizens have the power
+## what are authoritarian regimes?
+
+* population excluded from **selecting the leader**
+  * excluded from participation China- no general election
+  * excluded from choice - NK
+* Population deprived of **influence on leader behaviour**
+  * leader can act unconstrained, leading to grand gesture - China's water dam
+* **Typology** of Authoritarian Regime- based on ruler's background, ignore the social/economic stuff
+  * **Monarchy** - rulers are members of dynastic family - Jordan, UAE, Saudi Arabia 
+  * **Military** - rulers are active duty soldiers, came into power through coup - Burma, Park Chung-hee, Pinochet
+  * **One-party-rule** - rulers of dominant party - communist countries, Egypt under Mubarak, Chavez
+
+## How do authoritarian regimes maintain power?
+
+- the repressive power of autocratic leader comes not from the person but the organization 
+- **Repression relies on effective coercive organization**
+  1. **well-coordinated bureaucracy** (deuestche bank send an invoice to the Nazi regime on the persecution of Jewish people, and if the Nazi government pay their bill late the service will be cut off)
+  2. **deep resources** ( Uyghur vs big government car )
+  3. **massive manpower**
+- dictators rely on elites from the coercive organization - secret police, etc
+- threat to dictators comes not from masses, but fellow ruling elites
+  - by brothers in monarchies, by lower-ranking soldiers
+- **Dictator's security dilemma**
+  - long term(mass revolt) and short term( palace coup)
+  - long term security puts dictators in greater immediate danger
+- dictator's survival relies on coalition of fellow elites, these elites create dictators "**wining coalition**"
+  - family members in monarchies, soldiers, party members
+- Dictators primary task is to **keep the winning coalition from defecting**
+  - repression-> infeasible, elites control the coercive system
+  - **clientelism**-> offer resources to buy elites' support by offering privileges
+    - public goods: Non-excludable, elites defecting from the winning coalition still have access to the goods
+    - private goods: excludable, defecting elites can be denied access. i.e luxuries, policy favours, appointments in key positions
+- elite support for dictators is based on negotiation and exchange
+
+### Who holds short side power in authoritarian societies? 
+
+- members of the wining coalition receive exclusive private goods
+- All citizens want to join the winning coalition.
+- However in dictatorship winning coalition is very small
+- Applicants vastly outnumber available posts in the winning coalition
+- Dictator exercise short side power over elites
+
+**Reverse Competition**
+
 - In an authoritarian government, the citizens vie to curry favour from the state
+
 - In a democratic government, the state vies for favour from the citizens. 
 
-Competition amongst population has unintended consequences
+**Short side power explains population loyalty in authoritarian regimes**
 
-- Winners are based on their rankings, rather than their actual skill level. 
-- When it comes to competition, a very frequent outcome is overshooting – this is the tournament effect
-- Marginal increase in effort has disproportionate impact in winning the competition
-- This motivates all people to keep ratcheting up efforts
+* Population need not be coerced, or deceived
+* It is in their self-interest to support the regime
+
+#### Competition amongst population has unintended consequences
+
+- Winners are based on their **relative rankings**, rather than their **actual skill level.** 
+
+- Focusing on relative difference in effort, contestants ignore its absolute level
+
+  * When it comes to competition, a very frequent outcome is overshooting – this is the tournament effect
+  * Marginal increase in effort has disproportionate impact in winning the competition
+  * This motivates all people to keep ratcheting up efforts
+
 - Population’s enthusiasm overshoots the dictators preferences – people compete too enthusiastically with each other. 
-- Example: the great leap forward made it that the population’s enthusiasm overshot the intended results. People started melting their utensils to make low quality steel. The locals wanted favour from Beijing in order to be appointed leaders, so they starved their own provinces. The provinces with no upward mobility escaped failure
-- Policy overshooting – is caused my competition among population. 
-- Policy Drift is another issue – short side power leads to policy drift
-- Example: in china, the cultural revolution was originally designed to re-educate class enemies. 
-- Competition amongst locals for political favours led to innovation in technique – extermination of class enemies
-- Another puzzle: Why would one kill their neighbors. Remember – the original objective was to re-educate class enemies
-- Local competition led to innovation in target – non-class enemies are targeted. 
-- Recap: Dictator’s repressive strength turns into weakness: dictators become reliant on fellow elites, and thus are vulnerable to palace coups. 
-- Since everyone want to join the winning coalition, as population competes to please the leader, and thus can cause policy overshooting, or policy drifting. 
 
-How are democratic and autocratic regimes similar?
+##### Example: the great leap forward
+
+- Why such extreme grain output diversion? Competition amongst locals for political favours.Focusing on relative ranking in grain contribution, cadres ignore absolute magnitude of local starvation.
+
+- - why did it vary sharply across provinces?Provinces with vacant party positions suffered extreme food removal.  Provinces without upward mobility escaped famine
+
+- Policy overshooting – is caused competition among population. 
+
+#### short side power leads to policy drift
+
+##### Example: class enemies
+
+- Why would one kill their neighbors(intimate). Remember – the original objective was to re-educate class enemies. Local competition led to innovation in target – non-class enemies are targeted. Citizens falsely accuse each other, in order to settle personal scores. wars civilians engage in collaboration for personal revenge
+
+- why concentrated in rural areas? Leader’s objective: re-educate class enemies.Competition among locals led to innovation in technique: elimination.Areas out of reach from the center suffer most killings
+
+
+- Recap: Dictator’s repressive strength turns into weakness: 
+- Repressive Power
+  - dictators become reliant on fellow elites, and thus are vulnerable to palace coups. 
+
+* Bargaining Power
+    * Since everyone want to join the winning coalition, as population competes to please the leader, and thus can cause policy overshooting, or policy drifting. 
+
+## How are democratic and autocratic regimes similar?
 
 - Some autocratic regimes have elements in them that are democratic in nature. 
 - Why do dictators maintain democratic institutions
@@ -156,54 +229,71 @@ How are democratic and autocratic regimes similar?
 - Military state – membership brings some privileges, minimum winning coalition is medium size, and thus there is a combination of both private and public goods provided to the coalition. 
 - In one-party states, few benefits trickle down to most members (one party states have quite large winning coalitions) I.e china and the CCP. Thus, they are likelier to provide public goods, least feasible to provide private goods. There will be greater attention to good public policy.
 
-The time inconsistency problem
+## Why do dictators maintain democratic institutions?
 
-- In making policy concessions, dictators face a time inconsistency problem
+help a small ruling group deal with large masses
+1. legislature: make policy concession creditable
+2. multiple parties: screen week spot in opposition
+3. elections: signal strength
+
+## Why have legislature?
+
 - Now: In periods where the masses are strong, the dictator prefers to make policy concessions
 - Later: when masses are weak, dictator prefers not to concede.
-- Thus, it is in the dictator’s interest to concede now and renege later. The masses will thus be skeptical of their changes
-- So how does the dictator credibly demonstrate their resolve to not renege on their concessions?
-- Solution to this is that the dictator binds their own hand with the legislature. 
-- More policy concessions -> more binding is required. The one-party states thus have the most legislative bindings in order to ensure that they adhere to their promises
-- Logic: larger winning coalition -> more concessions -> greater temptation to renege -> stronger legislature
-- Thus, in monarchies, legislature is least likely to be permitted, military regime is in between – not very likely. One party rule – most likely to be permitted
+- Thus,**it is in the dictator’s interest to concede now and renege later**. The masses will thus be skeptical of their changes
+- So how does the dictator credibly demonstrate their resolve to not renege on their concessions?- Odysseus: something to bind their hand
+- **The dictator invite the legislature to binds their own hand** 
+  - More policy concessions -> more binding is required. 
+  - Logic: larger winning coalition -> more concessions -> greater temptation to renege -> stronger legislature. The one-party states thus have the most legislative bindings in order to ensure that they adhere to their promises, since they are more dependent on public goods as offering vs private goods.
+- Thus, **in monarchies(small wining coalition)- legislature is least likely to be permitted, military regime is in between – not very likely. One party rule – most likely to be permitted**
 
-Dictators face information problems 
+## Why allow opposition parties?
 
 - The dictator does not know well what the public thinks of them
-- He wants to know what types of opposition types exist – opportunists and radicals. 
+- He wants to know what types of opposition types exist – **opportunists and radicals.** 
 - It is hard to differentiate these types – as everyone would claim that they are radicals.
-- What is the solution to this problem? 
-- Similar to a car insurance company – they want to attract low risk drivers, but it is hard for them to glean information about the type of drivers.
-- The solution: offer them many options. ensure that it is too costly for different types of opposition members to mimic each other’s types. 
-- Car example: (i.e high risk driver would not take the maximum deductible policy, low-risk driver will choose zero deductible policy as it has a high monthly payment)
+- Similar to a car insurance company – they want to attract low risk drivers, but it is hard for them to glean information about the type of drivers. The solution: 1. **offer them many options** 2.  **ensure that it is too costly for different types of opposition members to mimic each other’s types**.  high risk driver would not take the maximum deductible policy, low-risk driver will choose zero deductible policy as it has a high monthly payment.
+- This is the theory of **screening**-identify the types of other side. (signaling: demonstrate your own type)
 - In the scenario of a dictatorship:
-- If opposition parties are all banned, silence is the only option for both radicals and opportunists. As a result, these two types are indistinguishable.
-- If opposition parties are allowed, then the opposition can choose between silence and criticism. For the radicals, silence is too costly (they lose reputation). Criticism is too costly for opportunists (they lose bribes from regime). By allowing opposition, the dictator can easily separate the radicals and the opportunists. 
-- Thus, it is often the case that dictators allow opposition
-- This is the theory of screening in order to decide what type of opposition a person is. Outcome: choices truthfully reveal types.
-- How do dictators reveal information  to the population
-- Keep in mind that mass revolt can overthrow the dictator
-- Individual action has little to no effect
-- Individuals will not oppose unless they know others will oppose
-- Lack of mutal coordination prevents mass coordination
-- If dictators convey impressions of widespread support, no one will want to overthrow the regime, even if no one likes the regime.
-- How do dictators show popularity credibly?
-- They must take an action that is impossible for weak dictators (lemons) to mimic. i.e  the strong dictators will allow for competitive elections
-- This is a credible signal of their strength/popularity, as weak dictators cannot afford to hold competitive elections
+  - If opposition parties are all banned, silence is the only option for both radicals and opportunists. **As a result, these two types are indistinguishable.**
+  - If opposition parties are allowed, then the opposition can choose between yes and no. 
+    - **For the radicals, yes is too costly (they lose reputation).** - vote no
+    - **No is too costly for opportunists (they lose bribes from regime).** - vote yes
+    - By allowing opposition, the dictator can easily separate the radicals and the opportunists. 
+
+## why many dictatorships have competitive elections
+
+- **Mass** revolt can overthrow the dictator
+
+- **Individual** action has little to no effect
+
+- Individuals will not oppose unless **they know** others will oppose
+
+- If dictators convey impressions of widespread support, no one will want to overthrow the regime, even if there are more than enough of them to topple the regime.
+
+### How do dictators show popularity credibly?
+- **They must take an action that is impossible for weak dictators (lemons) to mimic. i.e  the strong dictators will allow for competitive elections**
+- This is a credible **signal** of their strength/popularity, as weak dictators cannot afford to hold competitive elections
 - That is why many dictatorships have competitive elections – strong dictators want to use elections/referendums to credibly signal popularity
-- How does a dictator signal to the public that they had a fair election – how do dictators avoid the impression of a fraudulent election. 
+- Example: Putin & election. High approval. Myanmar: refuse to hold elections
+
+### How to avoid the impression of "fraudulent election"?
 - Many times, opposition parties do not find it rational to monitor elections honestly.
-- Radicals always declare the election fraudulent even in the government wins fairly
-- For the opportunists, they will always claim that the election was clean even if the government wins fraudulently – they want to curry favour 
-- Even if fraud is visible, there is no clear perception of fraud
-- There is disagreement amongst the opposition – opportunists still claim there is no fraud
-- Thus, dictators will use this split to their advantage.
+  - **Radicals** always declare the election fraudulent even in the government wins fairly
+
+  - For the **opportunists**, they will always claim that the election was clean even if the government wins fraudulently – they want to curry favour 
+
+  - Even if fraud is visible, there is disagreement amongst the opposition –Thus, dictators will use this split to their advantage,  avoid clear impression of fraud
+
 - Opposition division in election monitoring can also harm dictators:
-- Even if election is visibly clean, there is no clear perception of cleanness
-- Root cause: radicals will always claim that there is fraud.
-- Solution: the dictator signals to the public that they are fair – they allow independent electoral monitoring organizations. Fraudulent dictators cannot afford to allow this scrutiny, but fair dictators can do so. 
-- I.e in Canada, elections Canada is an independent third-party organization that oversees the elections on an impartial basis
+
+  - Even if election is visibly clean, there is no clear perception of cleanness
+  - Root cause: radicals will always claim that there is fraud.
+  - even a clean election win cannot gain clear impression of cleanness
+
+  - Solution: the dictator **signals** to the public that they are fair – they allow **independent electoral monitoring organizations**. Fraudulent dictators cannot afford to allow this scrutiny, but fair dictators can do so. 
+
+    - I.e in Canada, elections Canada is an independent third-party organization that oversees the elections on an impartial basis
 
 The politics of regime change – 
 
