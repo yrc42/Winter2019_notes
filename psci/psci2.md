@@ -213,30 +213,41 @@ In politics
 * Bargaining Power
     * Since everyone want to join the winning coalition, as population competes to please the leader, and thus can cause policy overshooting, or policy drifting. 
 
-## How are democratic and autocratic regimes similar?
+## Why do dictators maintain democratic institutions
 
-- Some autocratic regimes have elements in them that are democratic in nature. 
-- Why do dictators maintain democratic institutions
+- Dictators’ immediate danger comes from elites rather than masses
+
+- But mass disapproval makes elites even more dangerous to dictators
+
+  ​      (1) capability: to suppress the masses, elites are made more powerful
+
+  ​      (2) legitimacy: when masses are dissatisfied with ruler, palace coups become more legitimate
+
 - To increase mass support, dictators allow more citizens to join the winning coalition
+
 - Members of the winning coalition receive benefits as private goods
+
 - However, private goods are rivalrous, and thus the more people you have the more competition there is. When membership becomes large, each member has less to share.
-- This is not the case for public goods such as those presented in a non-clientelistic society, the amount of public good is still the same regardless of population. 
-- When winning coalition membership is large in a dictatorship, masses no longer value membership
+
+- When winning coalition membership is large in a dictatorship, privileges become less valuable.
+
 - In response, dictators offer public goods as concessions to the coalition, making it seem more like a democratic institution.
-- Dictators with large winning coalitions offer more policy concessions in the form of public goods.
-- Intuition: larger winning coalition → private goods value per person dissipates, but this is not the case for public goods -> dictators start providing public goods. 
+
+- large winning coalitions -> more policy concessions in the form of public goods - Intuition: larger winning coalition → private goods value per person dissipates, but this is not the case for public goods -> dictators start providing public goods. 
+
 - Monarchies/personal rulers – membership brings extreme private goods, due to the small size of the winning coalition.
+
 - Military state – membership brings some privileges, minimum winning coalition is medium size, and thus there is a combination of both private and public goods provided to the coalition. 
+
 - In one-party states, few benefits trickle down to most members (one party states have quite large winning coalitions) I.e china and the CCP. Thus, they are likelier to provide public goods, least feasible to provide private goods. There will be greater attention to good public policy.
 
-## Why do dictators maintain democratic institutions?
+In summary, it helps a small ruling group deal with large masses
 
-help a small ruling group deal with large masses
 1. legislature: make policy concession creditable
 2. multiple parties: screen week spot in opposition
 3. elections: signal strength
 
-## Why have legislature?
+### Why have legislature?
 
 - Now: In periods where the masses are strong, the dictator prefers to make policy concessions
 - Later: when masses are weak, dictator prefers not to concede.
@@ -247,7 +258,7 @@ help a small ruling group deal with large masses
   - Logic: larger winning coalition -> more concessions -> greater temptation to renege -> stronger legislature. The one-party states thus have the most legislative bindings in order to ensure that they adhere to their promises, since they are more dependent on public goods as offering vs private goods.
 - Thus, **in monarchies(small wining coalition)- legislature is least likely to be permitted, military regime is in between – not very likely. One party rule – most likely to be permitted**
 
-## Why allow opposition parties?
+### Why allow opposition parties?
 
 - The dictator does not know well what the public thinks of them
 - He wants to know what types of opposition types exist – **opportunists and radicals.** 
@@ -261,7 +272,7 @@ help a small ruling group deal with large masses
     - **No is too costly for opportunists (they lose bribes from regime).** - vote yes
     - By allowing opposition, the dictator can easily separate the radicals and the opportunists. 
 
-## why many dictatorships have competitive elections
+### why many dictatorships have competitive elections
 
 - **Mass** revolt can overthrow the dictator
 
@@ -271,13 +282,15 @@ help a small ruling group deal with large masses
 
 - If dictators convey impressions of widespread support, no one will want to overthrow the regime, even if there are more than enough of them to topple the regime.
 
-### How do dictators show popularity credibly?
+#### How do dictators show popularity credibly?
+
 - **They must take an action that is impossible for weak dictators (lemons) to mimic. i.e  the strong dictators will allow for competitive elections**
 - This is a credible **signal** of their strength/popularity, as weak dictators cannot afford to hold competitive elections
 - That is why many dictatorships have competitive elections – strong dictators want to use elections/referendums to credibly signal popularity
 - Example: Putin & election. High approval. Myanmar: refuse to hold elections
 
-### How to avoid the impression of "fraudulent election"?
+#### How to avoid the impression of "fraudulent election"?
+
 - Many times, opposition parties do not find it rational to monitor elections honestly.
   - **Radicals** always declare the election fraudulent even in the government wins fairly
 
@@ -295,14 +308,17 @@ help a small ruling group deal with large masses
 
     - I.e in Canada, elections Canada is an independent third-party organization that oversees the elections on an impartial basis
 
-The politics of regime change – 
+# Chapter 5 - When to Democratize?
 
-- in a dictatorship, wealth in unequally distributed
-- elites are rich, citizens are poor 
+## Is it rational to ask for democracy?
+
+- in a dictatorship, wealth in unequally distributed - elites are rich, citizens are poor(only access to public goods)
 - citizens generally act rationally to increase their standards of life
-- Thus, they would push directly for more income. Democracy only offers you procedural benefits.
-- Working on this logic, the poor would demand wealth/economic resources from the dictator, rather than initially wanting democracy
-- Thus – they will continue to support the dictator as long as the wealth is redistributed. 
+- Thus, they would push directly for more income, which offers material benefits. Democracy only offers you **procedural benefits.**
+- Working on this logic, the poor would demand **wealth/economic redistribution** from the dictator
+  - redistribution-> continue to support the dictator
+  - no redistribution-> no support, revolt
+- However, even though the poor can directly press for redistribution, the dictator's offer might not be credible - time inconsistency problem
 
 Democracy and Growth
 
