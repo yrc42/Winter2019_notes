@@ -347,7 +347,7 @@ In summary, it helps a small ruling group deal with large masses
 
 ## What regime is better for revolutionary leaders?
 
-* A time-inconsistency problem: When out of power, the poor benefits from democracy, once in power, the poor benefit from being dictator
+* A time-inconsistency problem: When out of power, the poor benefits from democracy, once in power, the poor benefit from being dictator, since in autocracy wealth is concentrated to the leader
 * having all the power, revolutionary leaders cannot "bind their own hands" since the other side has lost
 
 ## Democracy and Inequality
@@ -450,7 +450,7 @@ The democratization probability graph is a parabola -  when inequality is too lo
   - Southeast: extreme inequality and rural ->highly autocratic. 
   - Western regions: moderate inequality -> democratic
   - Northeast, Midwest – extreme inequality , but industrial area -> democratic
-  - industrialization alters the direction of relationship between democracy and inequality -> from U to straightly increasing line 
+  - industrialization alters the direction of relationship between democracy and inequality -> from inverse U to straightly increasing line 
 
   
 

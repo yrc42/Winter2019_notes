@@ -142,7 +142,63 @@ similar to individuals
   * distance ME from the group
   * resistance among bystanders'kin, too
 
+### Propaganda: Giving evil a face
+
+- What's the enemy really like
+- What EMOTIONS are relevant
+- Is the enemy always HATED
+- Is the enemy always EVIL
+
+Anger - We get angry at other people when they block our goal. The movement of self is towards other, and the other pushes back(self-><-other)
+
+Disgust - A rejection response to protect body from contamination, the self is pushing other away and down
+
+Fear - Other is coming at self - a direct , active threat, and the fear's response is to avoid
+
+Hate  - The motive to harm the others, powered by anger, disgust, and fear
+
+**Propaganda's goal is to invoke anger, disgust, and fear to trigger hate**
 
 
+| "face"            | Emotions                                                     | Hated?                                                       | Evil?                       | Examples                                     |
+| ----------------- | ------------------------------------------------------------ | ------------------------------------------------------------ | --------------------------- | -------------------------------------------- |
+| Human (like ME)   | "healthy respect"- even though we have differences, assume you're reasonable just like me | No -"do you yield?", minimize harm                           | No                          | worthy opponent                              |
+| Barely Human      | anger, symbolic disgust - contamination of the soul, moral  - i.e. Disgusted grandma in church "they are messing up my world" | YES                                                          | YES - intentionality        | MOPE 1 - sadistic                            |
+| Sub- Human        | fear, core disgust - physical contamination                  | YES                                                          | NO - lack of intentionality | animal, disease - i.e. "senseless beast"     |
+| Not Living        | lack of empathy - no connection to abstraction               | No* - I don't feel the need to destroy them but I'm ok with others doing it | No - no intentionality      | abstraction, labels, numbers on the chart    |
+| Not of this world | anger, fear, disgust x2                                      | YES                                                          | YES                         | MOPE 2-demons, incarnations of absolute evil |
 
+Deangelo's(2000) germs - portrayal of evil spiky stabby intrusive germ
+
+Canadian content- Canadian beaver chewing tree to shake down hitler
+
+## Group Setting #3 -family
+
+* small is not necessarily less corrupt
+* greatest harm -> vulnerable/dependent
+
+### Child Sexual Abuse and the Family
+
+* Malloy (2007) - 400 US cases
+
+  * the majority of perpetrator are relatives/parent
+
+  * Nearly 1/4 recanted, took back accusation, despite compelling evidence
+
+  * Especially likely to recant if (1) **the perpetrator is a parent figure (2)the non-offending caregiver failed to support victim** (i.e. blamed the child, stayed romantically involved with the perp)
+* Reid(2015): 92 US youth sex trafficking cases
+  * nearly 1/3 trafficker was a relative, pimping out kids for drug money
+  * most others parent figure knew about it - passive bystanders
+
+### Elder Abuse
+
+* similar abuse, similar threats, PLUS financial abuse
+* Over 1/2 perps are family - "strong sense of entitlement"
+
+## Group-based Evil - Common Elements
+
+1. MioMa - what I want is more important than others
+2. Mark of Cain: two family examples - deny/conceal/justify OTHERS' deeds as well as one's own
+3. division of labour: no role is too small
+4. inconsistency across time& situation - "killer rescuers i.e. he attac he protec"
 
