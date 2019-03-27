@@ -313,55 +313,146 @@ In summary, it helps a small ruling group deal with large masses
 ## Is it rational to ask for democracy?
 
 - in a dictatorship, wealth in unequally distributed - elites are rich, citizens are poor(only access to public goods)
+
 - citizens generally act rationally to increase their standards of life
+
 - Thus, they would push directly for more income, which offers material benefits. Democracy only offers you **procedural benefits.**
+
 - Working on this logic, the poor would demand **wealth/economic redistribution** from the dictator
   - redistribution-> continue to support the dictator
   - no redistribution-> no support, revolt
-- However, even though the poor can directly press for redistribution, the dictator's offer might not be credible - time inconsistency problem
 
-Democracy and Growth
+- **However, even though the poor can directly press for redistribution, the dictator's offer might not be credible - time inconsistency problem**
 
-- As the economy becomes more developed, production becomes more based on joint and complex work. 
-- Primitive economies rely generally on simple and solo work
-- Industrial economies are skill and capital intensive, but they do not come from the same source. The elites provide the capital, while the poor provide skilled labour.
-- These elites rely on the workers and oftentimes cannot force workers to work. Workers can purposely put in low effort, sabotage, petty theft, playing dumb, etc.
-- As a state becomes more democratized, this type of resistance becoming more damaging
-- Thus the elites offer concessions (redistribution and concessions) to the workers.
-- Example: King vs. council in Europe.
-- Before industrialization: the revenue of the king came mostly from the land. 
-- They did not rely on poor to generate income. No reason to share income with poor, and thus no reason to transfer power to the poor. The economy was not based on joint production, and thus it was an absolute monarchy.
-- As the economy grew, production replaced land as key source of revenue
-- Thus, the elites became more dependent on taxing the population to generate income. 
+  - When revolution potential is strong, dictator prefers to offer redistribution
+
+    When revolution potential is weak, dictator prefers to revoke redistribution
+
+  - Surrender the power over redistribution to the poor
+
+  - **By transferring decision-making power to the poor, democracy is born**
+
+  - Although democracy offers only procedure power, it is rational to demand it
+
+  - It makes the ruler’s promise of material benefits reversal-proof
+
+    take over the power of redistribution - democracy makes elites redistributive bargain credible 
+
+* democracy is not irrational romanticism
+
+* democracy is a rational strategdy of pursuing personal wealth
+  * the poor demand both material benefits and procedural power from dictator
+* the origin of democracy is evolution rather than revolutionary
+* democracy evolves from bargaining between the elites and the poor, elites offer to redistribute wealth and power, poor offer to withhold revolution
+
+## What regime is better for revolutionary leaders?
+
+* A time-inconsistency problem: When out of power, the poor benefits from democracy, once in power, the poor benefit from being dictator
+* having all the power, revolutionary leaders cannot "bind their own hands" since the other side has lost
+
+## Democracy and Inequality
+
+### Four paths towards democracy
+
+1. Singapore: no democracy, little repression
+2. UK: smooth progression to consolidated democracy
+3. Argentina: intermittent progression to unconsolidated democracy
+4. Apartheid South Africa: no democracy, lots of repression
+
+### income inequality levels
+
+1. **minimum inequality** - the poor not much worse off than elites, the poor do not demand redistribution, **the dictator stays in power without repression**
+   * east Asian countries
+2. **moderate inequality** -  the poor somewhat worse off, demand redistribution. elites somewhat better off, concede rather than repress - **democracy evolves, consolidate** 
+   * Anglo-Saxon + Scandinavian countries - monarchs gives up power, remains popular
+3. **high inequality** - strong demand for redistribution, the elites concede but will regret later. **Military coup**
+   * Latin America, Africa
+4. **extreme inequality** - elites have everything to lose in redistribution and hang on to power at any cost. **heavy repression, often resulting in revolution**
+   * south Africa, middle east
+
+The democratization probability graph is a parabola -  when inequality is too low, masses unwilling to demand regime change. when inequality is too high elites unwilling to offer regime change
+
+## Is it rational to ask for maximum democracy?
+
+* since having procedural power is good, why not take full control of the procedural power?
+* democracy is the outcome of elite-poor bargain - elites promise redistribution, and the poor promise to withhold revolution
+* with total procedure power, the poor can't credibly commit to spare elites so it's in poor's interest to limit their own power.  By giving some power to elites:
+  * materially - wealth redistribution is more likely
+  * politically - democracy is less likely to be reversed by elites
+* successful democratization is often managed by elites
+
+## Democracy and Growth
+
+- As the economy becomes more developed, production becomes more based on joint and complex work. redistributive conflicts soften. 
+
+- **Primitive economies rely generally on simple and solo work**
+
+- **Industrial economies rely on complex and joint work, are skill and capital intensive**. The elites provide the capital, while the poor provide skilled labour. Industrialization ties workers and elites together 
+
+  - These elites rely on the workers and oftentimes cannot force workers to work. Workers can use "weapons of weak", purposely put in low effort, sabotage, petty theft, playing dumb, etc.
+  - As skilled labour gain importance, this type of resistance becoming more damaging. 
+  - Thus the elites offer concessions (redistribution and democracy ) to the workers.
+
+### Effect of Industrialization on Elite Strategy 
+
+#### Before industrialization
+
+* the revenue of the king came mostly from the land. 
+* Crown did not rely on poor to generate income. 
+* No reason to share income with poor, and thus no reason to transfer power to the poor.
+*  The economy was not based on joint production, and thus it was an absolute monarchy.
+
+#### As the economy grew
+
+* production replaced land as key source of revenue
+
+- Thus, the elites became more dependent on **taxing the population** to generate income. 
 - The crown borrowed money from the population without repayment. 
-- To get revenue, crown had to induce cooperation of public. The crown thus offered the population the power to redistribute income and also more political power. 
-- Thus, the king ceded power to a separate council – democracy evolves. 
-- Thus, democracy emerged
-- The effect of industrialization of the strategy of poor: 
+- To get revenue, crown had to induce cooperation of public. The crown offered the population the power to redistribute income and also more political power. 
+- **Politically, the crown ceded power to a separate council –> democracy evolves.** 
+
+  - i.e. The Glorious Revolution 
+- **Economically: royal revenue skyrocketed**
+  - the interest rate for royal family declined, even as they took out more loans
+
+###  Effect of industrialization on strategy of the Poor
+
 - financial capital is more mobile than land
-- as financial capital gains importance due to industrialization, the exit of elite support becomes too costly for growth
-- Thus, if pressured, the elites will flee with their money
-- thus, the poor do not wish to demand too much income redistribution from the elites.
+
+- as financial capital gains importance due to industrialization, the exit of elite support becomes too costly for growth. If pressured, the elites will flee with their money
+
+  the poor demand smaller redistribution from the elites.
+
 - In response, elites would be willing to meet the demand of the poor
+
 - Democracies often fail in highly unequal societies
-- Failure stems from elite/poor redistributive conflicts
-- Elites are unwilling to redistribute
-- Poor demand too much redistribution
-- Thus, the elites use repression at all cost as the price of conceding to the poor is too high. 
+
+  - Failure stems from elite/poor redistributive conflicts
+
+  - Elites are unwilling to redistribute
+
+  - Poor demand too much redistribution
+
+  - Thus, the elites use repression at all cost as the price of conceding to the poor is too high. 
+
 - Industrialization softens these redistributive conflicts
-- Industrialization makes joint work more important for growth
-- The elites require cooperation of the door
-- Thus, they become more willing to redistribute.
-- The poor also becoming willing to demand less, as they fear the elites will flee with their goods, as it is easier in an industrialized country to flee with capital
-- Thus, redistribution and democratization become easier to achieve. 
-- Industrialize can foster democracy in highly unequal societies
-- US example: the south was highly autocratic. Why?
-- Western regions: egalitarian, and thus democratic
-- Northeast, Midwest – unequal income, but industrial area -> democratic
-- Southeast – unequal and rural and thus autocratic.
-- We can see from the example of the Midwest and northeast that although unequal, industrialization allowed for democracy. 
 
+  - Industrialization makes joint work more important for growth
 
+  - The elites become more willing to redistribute.
+
+  - The poor also becoming willing to demand less, as they fear the elites will flee with their goods, as it is easier in an industrialized country to flee with capital
+
+  - Thus, redistribution and democratization become easier to achieve. 
+
+- Industrialize can foster democracy in highly unequal societies - example: US  
+
+  - Southeast: extreme inequality and rural ->highly autocratic. 
+  - Western regions: moderate inequality -> democratic
+  - Northeast, Midwest – extreme inequality , but industrial area -> democratic
+  - industrialization alters the direction of relationship between democracy and inequality -> from U to straightly increasing line 
+
+  
 
 
 
