@@ -2,8 +2,8 @@
 
 * groups: **elective**(chosen) vs **inherited**(born into)
 * what is the individual's role in the group's evil? passive, active, by mere association with the group?
-* group membership: survival benefits: psychological benefits, psychological costs->collective guilt/shame
-  * when we see members of our group responsible for unjustified harm - EVIL definiton
+* group membership: survival benefits, psychological benefits, psychological costs->collective guilt/shame
+  * when we see members of our group responsible for unjustified harm - EVIL definition
 
 ## When my group does evil, I can...
 
@@ -15,12 +15,12 @@
 
 ### Harm
 
-1. additive: when there are bunch of people doing something harmful there is more harm than just a few people, simply due to number.
-2. exponential: coordination
+1. **additive**: when there are bunch of people doing something harmful there is more harm than just a few people, simply due to number.
+2. **exponential**: coordination
 
 ### Intentionality
 
-* fuzzy personhood: inside an entity, who get held responsible? the leadership, the bad apples, everybody, nobody? i.e. corporations 
+* **fuzzy personhood**: inside an entity, who get held responsible? the leadership, the bad apples, everybody, nobody? i.e. corporations 
 
 ### Justification
 
@@ -28,13 +28,13 @@ similar to individuals
 
 ## Group setting #1: corporates/Bureaucratic corruption
 
-* appetite for more(if profit is the only goal) + MioMa(the people that work for them, people receiving product, the general public)  -> the normalization of corruption
+* **appetite for more**(if profit is the only goal) + **MioMa**(the people that work for them, people receiving product, the general public)  -> the **normalization** of **corruption**
 
 ### The "Three Pillars"
 
 #### institutionalization
 
-"this is the way we actually do it"
+"yes there are rules, but this is the way we actually do it"
 
 1. **(charismatic) leaders:** tell a bullshit story to the public, and then reward the behaviour or ignore it inside the organization
 2. **selective organizational memory:** "i'm just gonna go with it"
@@ -42,20 +42,18 @@ similar to individuals
 
 #### Rationalization
 
-* we need a way to feel better- the hardest rationalization is the first one
-
-* rationalizing ideologies: the organization themselves offer justifications
-
+* we need a way to feel better- the hardest rationalization is the start
+* **rationalizing ideologies: the organization themselves offer justifications**
 * 1-6: mark of Cain, 7,8 : MioMa
 
-  1. denial of injury - "isn't really a big deal, compare to other things, ..."
-  2. denial of victim 
-  3. denial of responsibility- "I'm just doing what i am paid to do" ,intent 
-  4. legality - "if it's not illegal it's not wrong - we do what we do within the law, so we are not bad"
-  5. metaphor of the ledger - moral licensing, "we do a lot of good, should compensate the bad stuff"
-  6. social weighting- populist "you are not in the position to judge me"
-  7. appeal to higher loyalties - "God", "I need to take care of my family"
-  8. refocusing attention - "the pay is great!"
+  1. **denial of injury** - "isn't really a big deal, compare to other things, ..."
+  2. **denial of victim** 
+  3. **denial of responsibility**- "I'm just doing what i am paid to do" ,intent 
+  4. **legality** - "if it's not illegal it's not wrong - we do what we do within the law, so we are not bad"
+  5. **metaphor of the ledger - moral licensing**, "we do a lot of good, should compensate the bad stuff"
+  6. **social weighting- populist** "you are not in the position to judge me"
+  7. **appeal to higher loyalties** - "God", "I need to take care of my family"
+  8. **refocusing attention** - "the pay is great!"
 
 #### Socialization
 
@@ -70,8 +68,8 @@ similar to individuals
 
 #### Examples
 * major automakers
-* CDN greenhouse gas emitter - "it's unfair! we the people know climate change isn't real"
-* French alcohol/tobacco producers - "we are encouraging responsible use, we are so regulated we can't be unethical", moral microcosm and legality
+* **CDN greenhouse gas emitter - populist** "it's unfair! we the people know climate change isn't real"
+* **French alcohol/tobacco producers** - "we are encouraging responsible use, we are so regulated we can't be unethical", **moral microcosm and legality**
 * "War for survival"
 
 ## Group setting #2: Genocide
@@ -86,7 +84,7 @@ similar to individuals
 
 ### Properties
 
-* harm and intention clear: massive amount of death and preparation - thus, only good enough justification
+* harm and intention clear: massive amount of death and preparation - thus, **only good enough justification**
 
 #### Common Factors(Staub 2012)
 
@@ -103,7 +101,7 @@ similar to individuals
 
 ##### Together
 
-* **"we feeling"** - a big focus on the ingroup, feel connected to the group they are part of.  
+* **"we feeling"** - a big focus on the **ingroup**, feel connected to the group they are part of.  
 * **weak opposition** - "it could not be too bad, since no one is standing in our way. If you don't care enough to get into my way, I'll keep pushing it." i.e. Rwanda with the resistance army, wherever the resistance arrive, the genocide stops
 
 #### Division of Labour 
@@ -113,8 +111,8 @@ similar to individuals
 ##### Roles (hollows&Fritzon,2012)
 
 * looked at the court documents from people accused of war crimes in Balkan and looked into their roles
-* **logistic** - career government/military people, coming from a higher society. They focus on the infrastructure to assist the genocide
-* **sadistic** - less educated, less stable, the individuals that are lower status and are struggling more.  Feeling marginalized and disrespected. Process orientated -  want to make victims suffer during the process, using non-lethal weapon, sexual assault & humiliate victims
+* **logistic** - career government/military people, coming from a **higher society**. They focus on the infrastructure to assist the genocide
+* **sadistic** - less educated, less stable, the individuals that are **lower status** and are struggling more.  Feeling marginalized and disrespected. **Process orientated** -  want to make victims suffer during the process, using non-lethal weapon, sexual assault & humiliate victims
 
 ##### Methods(Rauxloh)
 
@@ -122,16 +120,16 @@ similar to individuals
 
 * animosity is not enough of a reason - **must overcome physiological confrontational barrier**
 
-  * via "**emotional energy dominance**" - enemies are weak and our group is strong - boosting themselves at the expense of others - similar to sadism
+  * via "**emotional energy dominance**" - enemies are weak and our group is strong - boosting themselves at the expense of others - **similar to sadism**
   * **acting on the perception gives a positive rush**
-  * **preceded by symbolic attacks** - graffiti on properties, sacred places, if no one push back they go bigger(ANTIFA FUCK YEAAH) 
+  * **preceded by symbolic attacks** - graffiti on properties, sacred places, if no one push back they go bigger
   * **humiliation/desecration** - "before I kill you, force you do humiliating things - sex act, killing games, plead and bargain" - to keep up the **"Triumphant atmosphere"** such that the high/giddiness stay on
 
 ##### Explaining Oneself (Bryant 2017) - Rwanda
 
 * It's "war", not genocide 
-* distancing themselves is more commonly used as excuse than justifications - since they are already on trial, justification is useless
-* "I am not capable of doing that. I'm nobody" - The most common defense, FAKE NEWS defense
+* **distancing themselves** is more commonly used as excuse than justifications - since they are already on trial, justification is useless
+* "I am not capable of doing that. I'm nobody" - The most common defense, **FAKE NEWS defense**
 * Functions : try to evade, assert goodness to avoid the Mark of Cain
 
 ##### Explaining Manyself
@@ -188,17 +186,61 @@ Canadian content- Canadian beaver chewing tree to shake down hitler
   * Especially likely to recant if (1) **the perpetrator is a parent figure (2)the non-offending caregiver failed to support victim** (i.e. blamed the child, stayed romantically involved with the perp)
 * Reid(2015): 92 US youth sex trafficking cases
   * nearly 1/3 trafficker was a relative, pimping out kids for drug money
-  * most others parent figure knew about it - passive bystanders
+  * most others parent figure knew about it - **passive bystanders**
 
 ### Elder Abuse
 
 * similar abuse, similar threats, PLUS financial abuse
-* Over 1/2 perps are family - "strong sense of entitlement"
+* Over 1/2 perps are family - "strong **sense of entitlement**"
 
 ## Group-based Evil - Common Elements
 
-1. MioMa - what I want is more important than others
-2. Mark of Cain: two family examples - deny/conceal/justify OTHERS' deeds as well as one's own
-3. division of labour: no role is too small
-4. inconsistency across time& situation - "killer rescuers i.e. he attac he protec"
+1. **MioMa** - what I want is more important than others
+2. **Mark of Cain**: two family examples - **deny/conceal/justify OTHERS' deeds as well as one's own**
+3. **division of labour**: no role is too small
+4. **inconsistency across time& situation** - "killer rescuers i.e. he attac he protec"
 
+## Responses
+
+* low engagement high virulence: avoidance, "evil phobia", "lalalalala"
+
+* high engagement high virulence: attack! - righteous indignation, avoiders can subcontract dealing with threat to attackers, attackers can use rhetoric to win avoiders over
+
+* high engagement low virulence: embrace - "evil is everywhere,  it's in me too" - withhold judgement.
+
+* low engagement low virulence: ignore
+
+### Validating the scale
+#### Psych of Evil students vs SLC students(general)
+* Pysch of Evil student scored significantly lower on the avoid/ignore scale - which are both low on engagement.  
+#### Burris(2011)
+* study 1: evil symbols made MOPE more salient
+* studies 2&3:  high virulence perceiver -> target with evil symbols(tattoos)-> evil behaviour and that marks the person as evil doer -> nihilistic hate/overkill( the individual need to be destroyed, should be hunted everyday of their life)
+
+### Is one response best? can it produce evil?
+
+| response | advantage | disadvantadge                                                |
+| -------- | --------- | ------------------------------------------------------------ |
+| avoid    | safety    | constrictive paranoia - hiding out for apocalypse            |
+| attack   | justice   | destructive zealotry - "patriots", "true believer"           |
+| embrace  | tolerance | delirious narcissism- "yes I can be nasty- watch me" i.e.genocide, st. paddy riots |
+| ignore   | bliss     | oblivious passivity                                          |
+
+## additional notes
+
+1. "This doesn't tell me why X happened."  *translation: "It should have happened"* 
+   * when a victim ask the existential question of past abuse, the underlying concepts(MioMa, mark of cain, etc) may ring hollow
+2. "THAT isn't really evil" the prototype, feeling, and implicating oneself
+   * it's the feeling that engage the issue of "evil"
+   * this maybe evil but if we really think about this we might implicate ourselves tpp
+
+3. "It's an online world"
+   * perpetrators: anonymity 
+     * more MioMa - "they are just an avatar on screen" a situation where the others truly doesn't matter
+     * less Mark of Cain - reduce the risk of being found out 
+   * victims: speed, breadth, longevity of damage
+   * Cyberball (William, Cheung, Choi, 2000): participants feel ostracized after virtual person not responding to their ball
+4. knowing that chasing feelings and mark of Cain still apply, we need to pursuit non-MioMa goals - boost ourselves without pushing others down.
+   * Harm: what are the True consequences for self and other
+   * Intention: lucid enough?
+   * justifiability: what would your hidden observer say?

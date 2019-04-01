@@ -359,7 +359,7 @@ In summary, it helps a small ruling group deal with large masses
 3. Argentina: intermittent progression to unconsolidated democracy
 4. Apartheid South Africa: no democracy, lots of repression
 
-### income inequality levels
+### Income inequality levels
 
 1. **minimum inequality** - the poor not much worse off than elites, the poor do not demand redistribution, **the dictator stays in power without repression**
    * east Asian countries
@@ -389,9 +389,9 @@ The democratization probability graph is a parabola -  when inequality is too lo
 
 - **Industrial economies rely on complex and joint work, are skill and capital intensive**. The elites provide the capital, while the poor provide skilled labour. Industrialization ties workers and elites together 
 
-  - These elites rely on the workers and oftentimes cannot force workers to work. Workers can use "weapons of weak", purposely put in low effort, sabotage, petty theft, playing dumb, etc.
+  - These elites rely on the workers and oftentimes cannot force/coerce workers to work. Workers don't even need to organize for collective resistance - can simply use "**weapons of weak**", purposely put in low effort, sabotage, petty theft, playing dumb, etc.
   - As skilled labour gain importance, this type of resistance becoming more damaging. 
-  - Thus the elites offer concessions (redistribution and democracy ) to the workers.
+  - Thus the elites offer concessions (redistribution and democracy ) to the workers, the poor is willing to demand less - meeting half way
 
 ### Effect of Industrialization on Elite Strategy 
 
@@ -408,7 +408,7 @@ The democratization probability graph is a parabola -  when inequality is too lo
 
 - Thus, the elites became more dependent on **taxing the population** to generate income. 
 - The crown borrowed money from the population without repayment. 
-- To get revenue, crown had to induce cooperation of public. The crown offered the population the power to redistribute income and also more political power. 
+- To get revenue, crown had to induce cooperation of public. The crown offered the population the power to **redistribute income** and also more **political power**. 
 - **Politically, the crown ceded power to a separate council –> democracy evolves.** 
 
   - i.e. The Glorious Revolution 
@@ -419,13 +419,14 @@ The democratization probability graph is a parabola -  when inequality is too lo
 
 - financial capital is more mobile than land
 
-- as financial capital gains importance due to industrialization, the exit of elite support becomes too costly for growth. If pressured, the elites will flee with their money
+- **as financial capital gains importance due to industrialization, the exit of elite support becomes too costly for growth**. If pressured, the elites will flee with their money
 
-  the poor demand smaller redistribution from the elites.
+- **the poor demand smaller redistribution from the elites.**
 
 - In response, elites would be willing to meet the demand of the poor
 
-- Democracies often fail in highly unequal societies
+
+### **Democracies often fail in highly unequal societies**
 
   - Failure stems from elite/poor redistributive conflicts
 
@@ -435,7 +436,7 @@ The democratization probability graph is a parabola -  when inequality is too lo
 
   - Thus, the elites use repression at all cost as the price of conceding to the poor is too high. 
 
-- Industrialization softens these redistributive conflicts
+### **Industrialization softens these redistributive conflicts**
 
   - Industrialization makes joint work more important for growth
 
@@ -445,7 +446,7 @@ The democratization probability graph is a parabola -  when inequality is too lo
 
   - Thus, redistribution and democratization become easier to achieve. 
 
-- Industrialize can foster democracy in highly unequal societies - example: US  
+### **Industrialize can foster democracy in highly unequal societies - example: US**  
 
   - Southeast: extreme inequality and rural ->highly autocratic. 
   - Western regions: moderate inequality -> democratic
